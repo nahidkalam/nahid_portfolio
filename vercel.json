@@ -1,0 +1,11 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "redirects": [
+    {
+      "source": "www.nahidkalam.dev",
+      "destination": "https://nahidkalam.dev",
+      "permanent": true
+    }
+  ]
+}
