@@ -1,15 +1,33 @@
 
-# Nahid Kalam Portfolio — Complete Project
+# Nahid Kalam
+# 👋 Hi, I’m Nahid Kalam  
 
-This is the full Vite + React + Tailwind project with your **entire portfolio code** wired into `src/App.tsx`.
+🎓 **Computer Science Graduate | M.S. Engineering Management (Syracuse University)**  
+💡 Passionate about building **ethical, human-centered technology** that blends impactful design with real-world problem solving.  
+⚙️ Interests: **AI policy & ethics, data privacy, full-stack development, and scalable systems.**  
 
-## Run locally
-```bash
-npm install
-npm run dev
-# open the printed URL (usually http://localhost:5173)
-```
+---
 
-## Notes
-- Minimal `@/components/ui/button` and `@/components/ui/card` are included to match your imports. You can later replace them with shadcn/ui if you want.
-- Tailwind dark mode is set to `class` and configs use CommonJS to avoid Node ESM issues.
+## 🌟 About Me  
+- 💻 Experienced in Python, Java, C++, C#, JavaScript, SQL, and React  
+- 📊 Worked on projects ranging from **VR development** to **web migration** and **AI/ML applications**  
+- 🌱 Exploring the intersection of **technology, regulation, and society**  
+- 🤝 Former Treasurer of **Kappa Theta Pi**, STEM Intern at **Shaw Center**, and passionate about community building  
+
+---
+
+## 🚀 Current Focus  
+- Full-stack development with React, Node.js, and .NET  
+- Exploring **ethical AI** and **tech regulation**  
+- Building projects that balance **innovation with responsibility**  
+
+---
+
+## 📫 Let’s Connect  
+- [LinkedIn](https://www.linkedin.com/in/nahidkalam)  
+- [Portfolio](https://nahidkalam.github.io)  
+- ✉️ Email: nkalam12@outlook.com  
+
+---
+
+⭐️ _“Technology should serve people, not the other way around.”_  

@@ -403,7 +403,7 @@ export default function Portfolio() {
                 Nahid Kalam
               </h1>
               <p className="mt-6 max-w-2xl mx-auto text-lg text-slate-300">
-                
+                I'm a software engineer specializing in building full-stack web applications and interactive experiences. I love creating intuitive, performant, and accessible products that solve real problems. 
               </p>
               <div className="mt-10 flex flex-wrap items-center justify-center gap-6">
                 <Button asChild size="lg">
