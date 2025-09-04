@@ -403,7 +403,7 @@ export default function Portfolio() {
                 Nahid Kalam
               </h1>
               <p className="mt-6 max-w-2xl mx-auto text-lg text-slate-300">
-                a Computer Science with experience in full-stack development, data-driven systems, and scalable applications. I enjoy solving complex problems and building reliable, high-performing technology.
+                I'm a Computer Science graduate with experience in full-stack development, data-driven systems, and scalable applications. I enjoy solving complex problems and building reliable, high-performing technology.
               </p>
               <div className="mt-10 flex flex-wrap items-center justify-center gap-6">
                 <Button asChild size="lg">
