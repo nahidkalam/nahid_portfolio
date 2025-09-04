@@ -19,13 +19,6 @@ import {
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 
-// ------------------------------------------------------
-// Sleek React Portfolio (one-file) — FULL RESTORE + FIX
-// - Fixes escaping bug (no backslashes in JSX props or string literals)
-// - Restores all sections (Hero, About, Projects, Experience, Contact, Footer)
-// - Keeps smooth scroll + scroll-spy + mobile drawer
-// - Adds lightweight runtime tests (console)
-// ------------------------------------------------------
 
 // ------------------------------
 // Data
@@ -410,7 +403,7 @@ export default function Portfolio() {
                 Nahid Kalam
               </h1>
               <p className="mt-6 max-w-2xl mx-auto text-lg text-slate-300">
-                Computer Science graduate passionate about building ethical, human-centered technology with impactful design.
+                
               </p>
               <div className="mt-10 flex flex-wrap items-center justify-center gap-6">
                 <Button asChild size="lg">
@@ -450,7 +443,7 @@ export default function Portfolio() {
               </CardHeader>
               <CardContent className="space-y-5 text-slate-600 dark:text-slate-300">
                 <p>
-                  I am a Computer Science graduate from Syracuse University (cum laude) with a strong foundation in software development and systems thinking. I enjoy working across the technology stack, creating intuitive user experiences, and exploring how technology can responsibly shape society. My academic and professional experiences have given me the chance to grow skills in programming, problem solving, and teamwork across different groups.
+                  I am a Computer Science graduate from Syracuse University with a strong foundation in software development and systems thinking. I enjoy working across the technology stack, creating intuitive user experiences, and exploring how technology can responsibly shape society. My academic and professional experiences have given me the chance to grow skills in programming, problem solving, and teamwork across different groups.
 
 Outside of my technical background, I have interests that keep me balanced and curious. I am a big soccer fan who follows the sport closely and enjoy the strategy and teamwork it represents. I also like cooking, running through the city, and hiking for fresh air. I am a sports enthusiast in general and value the lessons in resilience and adaptability that come from athletics. Living in New York City, I am always looking for ways to grow, mentor others, and be part of communities that value innovation and learning.
                 </p>
